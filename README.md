@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahima
+- 👋 Hi, I’m Rahima
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Structures,Cloud Computing
 - 📫 How to reach me www.linkedin.com/in/rahima-lari-05122001 , onworkarl@gmail.com
